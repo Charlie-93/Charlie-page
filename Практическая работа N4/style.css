@@ -1,0 +1,61 @@
+header {
+border: 2px dashed black;
+}
+h1 {
+border: 4px solid cyan;
+}
+h2 {
+border: 3px dotted green;
+}
+ol {
+border: 1px solid magenta;
+}
+.list {
+border: 4px double green;
+}
+.list2 {
+border: 4px double yellow;
+}
+.list3 {
+border: 4px double blue;
+}
+.list4 {
+border: 4px double purple;
+}
+.list5 {
+border: 4px double black;
+}
+.info {
+border: 4px solid green;
+}
+.page-footer {
+padding:20px;
+background-color:gray;
+}
+body {
+font-size: 16px;
+line-heigh: 26px;
+}
+main {
+border: 5px solid #2d508f;
+}
+body {
+background: #ffffff url("bg.png") no-repeat top center;
+}
+h1 {
+font-size: 2em;
+}
+.skills dd {
+background-color: #e8e8e8;
+margin: 0;
+margin-bottom: 10px;
+}
+.skills-level {
+font-size: 12px;
+text-align: center;
+color: #ffffff;
+background-color: #4470c4;
+}
+.skills-level {
+background-color: #47bb52;
+}
